@@ -3,5 +3,5 @@
 <br>
 
 ## The Main Page
-
-<img scr="main-page.png">
+<br>
+<img src="main-page.png">
